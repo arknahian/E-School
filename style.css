@@ -1,0 +1,126 @@
+div#navbarNav {
+    margin-left: 1020px;
+}
+a.navbar-brand {
+    margin-left: 266px;
+}
+@media only screen and (max-width: 600px) {
+    a.navbar-brand {
+        margin-left: 27px;
+    }
+    .navbar-toggler {
+        margin: -4px 37px !important;
+    }
+    .nav-top-logo{
+        margin-left: 0px !important;
+    }
+    .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+        color: rgba(0,0,0,.9) !important;
+    }
+    .bannner {
+        height: 1059px !important;
+    }
+    div.make-fix {
+        margin-top: 82px !important;
+    }
+  }
+  .bannner {
+    height: 776px;
+    background-image: url(e-school-image/Photos/f0fff0-2880x1800.png);
+}
+div.make-fix {
+    margin-top: 285px;
+    margin-left: 94px;
+}
+h1.big-font{
+    font-size: 4.5rem;
+}
+
+.cool-btn {
+    background-color: #21B573;
+    border: none;
+    border-radius: 31px;
+    padding: 7px 10px;
+    color: white;
+}
+.bg-light {
+    background-color: #f0fff0!important;
+}
+nav-top-logo{
+    
+    width: 177px;
+    margin-left: -72px;
+}
+.make-fix2{
+    text-align: center;
+}
+.make-small img {
+
+    width: 150px;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border-radius: 1.25rem;
+    border: none;
+    box-shadow: 0px 0px 12px black;
+}
+img.card-img-top {
+    width: 100%;
+}
+bg-card-lblue {
+    background-color: white;
+}
+.card.bg-card-lblue {
+    align-items: center;
+}
+.card-content{
+    margin-top: 50px;
+    border-spacing:10px;
+}
+.bg-card-lblue:hover{
+    background-color: #F0FFF0;
+}
+#courses{
+    margin-top: 100px;
+}
+.card-footer {
+    padding: .75rem 1.25rem;
+    background-color: rgb(255, 255, 255);
+    border-top: 1px solid rgb(255, 255, 255);
+}
+.card-r-p {
+    text-align: end;
+    margin-top: -35px;
+}
+@media screen and (max-width: 600px) {
+    .card col-md-3 {
+      width: 100% !important;
+      display: block !important;
+      margin-bottom: 20px !important;
+    }
+    .qutoes {
+        text-shadow: rgba(0,0,0,.9);
+        font-weight: 700;
+        margin-left: 7px !important;
+        background-color: honeydew;
+    }
+  }
+  #others {
+    height: 474px;
+    margin-top: 118px;
+}
+.row.testimonial {
+    margin-top: 92px;
+}
+.qutoes{
+    text-shadow: rgba(0,0,0,.9);
+    font-weight: 700;
+    margin-left: -120px;
+}
